@@ -2,12 +2,21 @@
 Основа командной строки для проектов DevelStudio
 
 <h1>Установка</h1>
+<p>Для DevelStudio 3.0 Beta2 и выше.</p>
 <ol>
-<li>Создайте проект в DevelStudio 3.0 Beta 2 и выше</li>
-<li>Разместите многострочное поле (TMemo)</li>
 <li>Подключите <b>BitConsole.php</b> к проекту</li>
+<li>Разместите многострочное поле (TMemo)</li>
+<li>Введите следующий код в <b>Создание</b>:
 </ol>
-Все настройки находятся в низу файла.
+```
+global $console; $console = new BitConsole();
+$console->console = c("Form1->memo1"); # Поле ввода/вывода
+$console->prefix = '> '; # Префикс
+$console->version = '2.0-pre1'; # Версия
+$console->shellredirect = True; # Перенаправлять команду в CMD-Windows, при её отсутствии в программе
+$console->clear(); # "Отчищаем" консоль перед запуском
+$console->ConsoleEvents(); # Загружаем события для консоли (ОБЯЗАТЕЛЬНО)
+```
 
 <h1>Возможности</h1>
 <ul>
