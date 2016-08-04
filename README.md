@@ -4,7 +4,7 @@
 <h1>Установка</h1>
 <ul>
 <li>Скачать архив с файлами</li>
-<li>Открыть BitConsole.dvs в DevelStudio 3.0 Beta 2 и выше</li>
+<li>Открыть <b>BitConsole.dvs</b> в <b>DevelStudio 3.0 Beta 2</b> и выше</li>
 <li>Запустить. Настройки в создании.</li>
 </ul>
 
