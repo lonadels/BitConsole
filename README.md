@@ -1,6 +1,14 @@
 # BitConsole
 Основа командной строки для проектов DevelStudio
 
+<h1>Установка</h1>
+<ul>
+<li>Скачать архив с файлами</li>
+<li>Открыть BitConsole.dvs в DevelStudio 3.0 Beta 2 и выше</li>
+<li>Запустить. Настройки в создании.</li>
+</ul>
+
+
 <h1>Возможности</h1>
 <ul>
 <li><span style="font-size: 15px">Содержит различные команды</span></li>
