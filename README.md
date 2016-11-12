@@ -26,5 +26,5 @@
 </ul>
 
 <h1>Ссылки</h1>
-<b>Группа ВК:</b> <a href="http://vk.com/cloos">vk.com/cloos</a><br>
-<b>Обсуждение на форуме:</b> <a href="http://cloos.xyz/threads/bitconsole-2-0.52/">cloos.xyz/threads/bitconsole-2-0.52</a>
+<b>Группа ВК:</b> <a href="http://vk.com/swiftof">vk.com/swiftof</a><br>
+<b>Обсуждение на форуме:</b> <a href="http://swiftof.lonadels.ru/bitconsole-2-0">swiftof.lonadels.ru/bitconsole-2-0</a>
