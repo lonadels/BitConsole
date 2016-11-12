@@ -27,4 +27,4 @@
 
 <h1>Ссылки</h1>
 <b>Группа ВК:</b> <a href="http://vk.com/swiftof">vk.com/swiftof</a><br>
-<b>Обсуждение на форуме:</b> <a href="http://swiftof.lonadels.ru/bitconsole-2-0">swiftof.lonadels.ru/bitconsole-2-0</a>
+<b>Информация:</b> <a href="https://vk.com/page-64113295_53526959">vk.com/page-64113295_53526959</a>
