@@ -26,5 +26,5 @@
 </ul>
 
 <h1>Ссылки</h1>
-<b>Группа ВК:</b> <a href="http://vk.com/swiftof">vk.com/swiftof</a><br>
+<b>Группа ВК:</b> <a href="http://vk.com/cloudstud">vk.com/cloudstud</a><br>
 <b>Информация:</b> <a href="https://vk.com/page-64113295_53526959">vk.com/page-64113295_53526959</a>
